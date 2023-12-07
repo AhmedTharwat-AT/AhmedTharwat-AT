@@ -1,7 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Ahmed tharwat! 👋
 
--  I'm a Front-end web developer
--  Will put here all my projects to see my progress
--  How to reach me:   
-   [Facebook](https://www.facebook.com/ahmedtharwatAT/)  
-   [LinedIn](https://www.linkedin.com/in/ahmed-tharwat-at/)
+I'm a passionate Frontend React Developer from Egypt, enthusiastic about crafting seamless user experiences and responsive designs.
+Currently seeking remote, hybrid, or freelance opportunities.
+
+#### Skills:
+- React.js (React Query, React Router)
+- Redux.js & RTK
+- Recharts.js
+- Design Patterns
+- Responsive Design
+- Tailwind CSS
+- Bootstrap
+- Styled Components
+
+#### 📫 Let's Connect:
+- LinkedIn: [LinedIn](https://www.linkedin.com/in/ahmed-tharwat-at/)
+- Email: [ahmedsarwat3000@gmail.com](mailto:ahmedsarwat3000@gmail.com)
+
+Feel free to reach out for collaboration, projects, or just to say hello! 🚀

@@ -15,6 +15,8 @@ Currently seeking remote, hybrid, or freelance opportunities.
 
 #### 📫 Let's Connect:
 - LinkedIn : [LinedIn](https://www.linkedin.com/in/ahmed-tharwat-at/)
-- Email    :<a href="mailto:ahmedsarwat3000@gmail.com?subject=Message%20Subject&body=Hello%20there!">Send me an email</a>
+- Gmail    : <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedsarwat3000@gmail.com">ahmedsarwat3000</a>
+
+
 
 Feel free to reach out for collaboration, projects, or just to say hello! 🚀

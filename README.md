@@ -10,7 +10,6 @@ Currently seeking remote, hybrid, or freelance opportunities.
 - Design Patterns
 - Responsive Design
 - Tailwind CSS
-- Bootstrap
 - Styled Components
 
 #### 📫 Let's Connect:

@@ -13,8 +13,8 @@ Currently seeking remote, hybrid, or freelance opportunities.
 - Styled Components
 
 #### 📫 Let's Connect:
-- LinkedIn : [LinedIn](https://www.linkedin.com/in/ahmed-tharwat-at/)
-- Gmail    : <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedsarwat3000@gmail.com">ahmedsarwat3000</a>
+- LinkedIn : [View linkedIn page](https://www.linkedin.com/in/ahmed-tharwat-at/)
+- Gmail    : <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedsarwat3000@gmail.com">Send me an email</a>
 
 
 

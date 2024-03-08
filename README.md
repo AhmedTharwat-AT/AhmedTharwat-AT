@@ -4,13 +4,16 @@ I'm a passionate Frontend React Developer from Egypt, enthusiastic about craftin
 Currently seeking remote, hybrid, or freelance opportunities.
 
 #### Skills:
-- React.js (React Query, React Router)
+- Next.js
+- React.js (React Query, React Router , React hooks)
+- Typescript
 - Redux.js & RTK
 - Recharts.js
 - Design Patterns
 - Responsive Design
 - Tailwind CSS
 - Styled Components
+- Firebase & Supabase
 
 #### 📫 Let's Connect:
 - LinkedIn : [View linkedIn page](https://www.linkedin.com/in/ahmed-tharwat-at/)

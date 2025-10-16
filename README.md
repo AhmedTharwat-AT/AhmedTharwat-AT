@@ -1,5 +1,7 @@
 # Hi, I'm Ahmed Tharwat! 👋
 
+![Frontend Developer](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 I'm a **Frontend Engineer** passionate about crafting user-friendly web applications with **React**, **Next.js**, and **TypeScript**. I love building responsive, dynamic interfaces and am eager to contribute to innovative projects!
 
 ---
@@ -32,19 +34,18 @@ I'm a **Frontend Engineer** passionate about crafting user-friendly web applicat
 - **Technologies**: Next.js, TypeScript, Tailwind CSS  
 - [Live Demo](https://penguin.com.sa/)
 
-### Chatly, Web Chat App
-- Developed a real-time chat app with read receipts and typing indicators.  
-- **Features**: Read receipts, Typing indicators, Responsive UI  
-- **Technologies**: React, TypeScript, Tailwind, Firebase  
-- [GitHub](https://github.com/AhmedTharwat-AT/chat-app) | [Live Demo](https://chatly-web-app.vercel.app/)
+### More English, E-Learning Platform
+- Refactored an e-learning platform with Next.js, adding interactive lessons, progress tracking, and video protection. Optimized SEO with static site generation.  
+- **Features**: Interactive lessons, Progress tracking, Video protection, SEO optimization  
+- **Technologies**: Next.js, TypeScript, Tailwind CSS  
+- [Live Demo](https://www.more-english.net/)
 
-### Darak, Real Estate
-- Created a platform for browsing and listing properties with advanced filtering.  
-- **Features**: Advanced filtering, Secure authentication  
-- **Technologies**: Next.js v15, TypeScript, Prisma ORM, Tailwind CSS  
-- [Live Demo](https://darak-realestate.vercel.app/en)
+### TalentKid CMS, Educational Platform (Phase One)
+- Developed a CMS with Next.js, integrating APIs for admins to manage website content. Built scalable, responsive UI for future enhancements.  
+- **Features**: API integration, Content management, Responsive design  
+- **Technologies**: Next.js, TypeScript, Tailwind CSS  
+- [Live Demo](https://talentkid.sa/)
 
-![Projects](https://media.giphy.com/media/3o6ZsXZsm1xF6XWQ5W/giphy.gif)
 
 ---
 

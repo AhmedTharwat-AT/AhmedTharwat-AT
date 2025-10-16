@@ -46,6 +46,19 @@ I'm a **Frontend Engineer** passionate about crafting user-friendly web applicat
 - **Technologies**: Next.js, TypeScript, Tailwind CSS  
 - [Live Demo](https://talentkid.sa/)
 
+### Chatly, Web Chat App
+- Developed a real-time chat app with read receipts and typing indicators.  
+- **Features**: Read receipts, Typing indicators, Responsive UI  
+- **Technologies**: React, TypeScript, Tailwind, Firebase  
+- [GitHub](https://github.com/AhmedTharwat-AT/chat-app) | [Live Demo](https://chatly-web-app.vercel.app/)
+
+### Darak, Real Estate
+- Created a platform for browsing and listing properties with advanced filtering.  
+- **Features**: Advanced filtering, Secure authentication  
+- **Technologies**: Next.js v15, TypeScript, Prisma ORM, Tailwind CSS  
+- [Live Demo](https://darak-realestate.vercel.app/en)
+
+![Projects](https://media.giphy.com/media/3o6ZsXZsm1xF6XWQ5W/giphy.gif)
 
 ---
 
@@ -62,7 +75,8 @@ I'm a **Frontend Engineer** passionate about crafting user-friendly web applicat
 
 ## 📊 GitHub Stats
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedTharwat-AT&show_icons=true&theme=radical)
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedTharwat-AT&show_icons=true&theme=dracula&hide=issues,prs&count_private=true&title_color=00D4AA&text_color=FFFFFF&bg_color=0D1117&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTharwat-AT&layout=compact&theme=dracula&hide_border=true&title_color=00D4AA&text_color=FFFFFF&bg_color=0D1117&border_radius=10)
 
 ---
 

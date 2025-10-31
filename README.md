@@ -58,8 +58,6 @@ I'm a **Frontend Engineer** passionate about crafting user-friendly web applicat
 - **Technologies**: Next.js v15, TypeScript, Prisma ORM, Tailwind CSS  
 - [Live Demo](https://darak-realestate.vercel.app/en)
 
-![Projects](https://media.giphy.com/media/3o6ZsXZsm1xF6XWQ5W/giphy.gif)
-
 ---
 
 ## 📫 Contact Me

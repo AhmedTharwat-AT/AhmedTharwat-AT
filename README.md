@@ -67,8 +67,6 @@ I'm a **Frontend Engineer** passionate about crafting user-friendly web applicat
 - **GitHub**: [AhmedTharwat-AT](https://github.com/ahmedtharwat-at)  
 - **Portfolio**: [portfolio-tharwat.vercel.app](https://portfolio-tharwat.vercel.app/)
 
-![Contact](https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif)
-
 ---
 
 ## 📊 GitHub Stats

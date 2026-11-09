@@ -1,7 +1,5 @@
 # Hi, I'm Ahmed Tharwat! 👋
 
-![Frontend Developer](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
 I'm a **Frontend Engineer** passionate about crafting user-friendly web applications with **React**, **Next.js**, and **TypeScript**. I love building responsive, dynamic interfaces and am eager to contribute to innovative projects!
 
 ---
